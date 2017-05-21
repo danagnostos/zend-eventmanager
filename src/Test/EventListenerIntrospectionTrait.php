@@ -9,7 +9,7 @@
 
 namespace Zend\EventManager\Test;
 
-use PHPUnit_Framework_Assert as Assert;
+use PHPUnit\Framework\Assert;
 use Zend\EventManager\EventManager;
 use Zend\Stdlib\PriorityQueue;
 
